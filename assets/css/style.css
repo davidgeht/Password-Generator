@@ -1,0 +1,17 @@
+.container{
+    background-image: url(../Images/grey-square-pattern-background-vector-illustration_1164-1350.jpg);
+    border-style: solid;
+    border-color: grey;
+    margin-bottom: 5px;
+}
+button{
+    margin-bottom: 25px;
+
+}
+
+textarea{
+    text-align: center;
+    margin-left: 60px;
+    width: 80%;
+
+}

@@ -16,6 +16,7 @@ function generate(){
     // Character length restriction
         if (pwCharacterLength< 8){
              return  alert("Character length must be a minimum of 8 characters")
+             return   pwCharacterLength;
         } else if (pwCharacterLength> 124){ 
             return  alert("Character length must be less then 124 characters")
          };
